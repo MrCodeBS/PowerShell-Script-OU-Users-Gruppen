@@ -1,5 +1,4 @@
 # Ein Script, das dein Active Directory managed (oder es zumindest versucht 😅)
-# Autor: Ein überarbeiteter Admin mit zu viel Kaffee im Blut
 
 # Importiere das Active Directory Modul (hoffen wir, dass es installiert ist!)
 Import-Module ActiveDirectory -ErrorAction Stop
